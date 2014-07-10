@@ -1,0 +1,3 @@
+name: kennethbgoodin-t3
+main: com.tenjava.entries.kennethbgoodin.t3.TenJava
+version: '${project.version}'
